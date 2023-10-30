@@ -1,3 +1,4 @@
+'use-client'
 import React from "react"
 import ProjectCard from "./ProjectCard";
 
@@ -12,60 +13,7 @@ const projects = [
         desc: 'Online Simple HTML, CSS, JS editor',
         image: 'Editor.png'
     }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
-    ,
-    {
-        title: 'Online Code Editor',
-        desc: 'Online Simple HTML, CSS, JS editor',
-        image: 'Editor.png'
-    }
+
 ];
 
 const ProjectSection = () => {
