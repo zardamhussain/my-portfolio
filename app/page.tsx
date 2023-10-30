@@ -1,4 +1,4 @@
-import CoronaVirus from "@/components/Lottie";
+'use client'
 import HeroSection from "@/components/HeroSection";
 import { NavBar } from "@/components/NavBar";
 import { About } from "@/components/About";
