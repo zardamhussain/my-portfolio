@@ -30,8 +30,8 @@ const HeroSection = () => {
                         repeat={Infinity}
                         />
                 </h1>
-                <p className='text-[#aea8a8] text-sm sm:text-xl mb-6'> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Ducimus quo aliquid quam omnis vero libero </p>
+                <p className='text-[#aea8a8] text-sm sm:text-xl mb-6'>
+                I'm Zardam Hussain and I have a powerful affinity with technology </p>
                 <div className='flex gap-2 flex-col sm:flex-none sm:flex-row'>
                     <button className='px-6 py-3 w-full sm:w-fit rounded-full
                         bg-gradient-to-br from-slate-400 via-[#328d65] to-slate-800 hover:bg-slate-200 mr-4 text-white font-bold'>Hire Me</button>
