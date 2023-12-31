@@ -70,7 +70,7 @@ const Deepika = () => {
       <div className="mt-7 ml-24 flex items-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 ">
           <div className="flex flex-col justify-between p-4 leading-normal">
               <h5 className="mb-2 font-bold tracking-tight text-gray-900 dark:text-white">Deepika 🐽 </h5>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">I ought to complain to Spotify for you not being named this week's hottest single 😂</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">I ought to complain to Spotify for you not being named this weeks hottest single 😂</p>
           </div>
       </div>
 
@@ -93,7 +93,7 @@ const Deepika = () => {
       <div className="mt-7 flex items-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 ">
           <div className="flex flex-col justify-between p-4 leading-normal">
               <h5 className="mb-2 font-bold tracking-tight text-gray-900 dark:text-white">Deepika ❤️</h5>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">If you were a song, you'd be the best single on the album</p>
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">If you were a song, you wouldd be the best single on the album</p>
           </div>
       </div>
 
